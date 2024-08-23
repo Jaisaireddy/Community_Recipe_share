@@ -3,6 +3,10 @@
 ## Overview
 The Community Recipe Sharing Platform is a modern, interactive web application that enables users to share, discover, and rate recipes from all over the world. It’s designed to foster a community of food enthusiasts, from amateur home cooks to professional chefs, allowing them to connect, share their culinary creations, and explore new dishes.
 
+## 3-tier AWS architecutre diagram
+
+![AWS_3_tier_architecture](https://github.com/user-attachments/assets/f460aa64-c45e-4736-93b4-9d6aece9bdfe)
+
 ## Key Features
 
 ### 1. User Profiles
